@@ -62,6 +62,11 @@ and also combines the tweet functionality from twitter into it. Find more about 
 - MongoDB
 - Cloudinary (must have an account)
 
+## Postman collection link for All Api's testing
+```bash
+https://documenter.getpostman.com/view/39764919/2sAYJ7gJsg
+```
+
 ## Installation and Setup
 
 1. **Clone the repository:**
